@@ -60,6 +60,7 @@ What if you want to remove a file remotely?
 
 `git push`
 
+To download (clone)  an online repository: `git clone 'url with .git extension'`
 
 
 
